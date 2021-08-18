@@ -48,7 +48,7 @@ export default function Sidebar() {
                 <ul className="sidebarFriendList">                    
                     <li className="sidebarFriend">
                         <img src="assets/images/f1.jpg" alt="friend1" className="sidebarFriendIcon" />
-                        <span className="sidebarFriendText">May Chou</span>
+                        <span className="sidebarFriendText">May Black</span>
                     </li>
                     <li className="sidebarFriend">
                         <img src="assets/images/f2.jpg" alt="friend1" className="sidebarFriendIcon" />
@@ -56,7 +56,31 @@ export default function Sidebar() {
                     </li>
                     <li className="sidebarFriend">
                         <img src="assets/images/f3.jpg" alt="friend1" className="sidebarFriendIcon" />
-                        <span className="sidebarFriendText">Juan Li</span>
+                        <span className="sidebarFriendText">June Pink</span>
+                    </li>
+                    <li className="sidebarFriend">
+                        <img src="assets/images/f1.jpg" alt="friend1" className="sidebarFriendIcon" />
+                        <span className="sidebarFriendText">May Black</span>
+                    </li>
+                    <li className="sidebarFriend">
+                        <img src="assets/images/f2.jpg" alt="friend1" className="sidebarFriendIcon" />
+                        <span className="sidebarFriendText">May Black</span>
+                    </li>
+                    <li className="sidebarFriend">
+                        <img src="assets/images/f3.jpg" alt="friend1" className="sidebarFriendIcon" />
+                        <span className="sidebarFriendText">May Black</span>
+                    </li>
+                    <li className="sidebarFriend">
+                        <img src="assets/images/f1.jpg" alt="friend1" className="sidebarFriendIcon" />
+                        <span className="sidebarFriendText">May Black</span>
+                    </li>
+                    <li className="sidebarFriend">
+                        <img src="assets/images/f2.jpg" alt="friend1" className="sidebarFriendIcon" />
+                        <span className="sidebarFriendText">May Black</span>
+                    </li>
+                    <li className="sidebarFriend">
+                        <img src="assets/images/f3.jpg" alt="friend1" className="sidebarFriendIcon" />
+                        <span className="sidebarFriendText">May Black</span>
                     </li>
                 </ul>
             </div>

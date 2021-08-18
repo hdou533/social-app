@@ -1,7 +1,23 @@
 .sidebar {
   flex: 3;
   height: calc(100vh - 3rem);
-  border-right: solid 1px rgb(219, 214, 214);
+  overflow-y: scroll;
+}
+
+::-webkit-scrollbar {
+  width: 12px;
+}
+
+::-webkit-scrollbar-track {
+  background: #fff;
+}
+
+::-webkit-scrollbar-thumb {
+  background: rgb(219, 214, 214);
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #ccc;
 }
 
 .sidebarWrapper {
@@ -30,6 +46,7 @@
   font-weight: 600;
   color: #3f51b5;
   background-color: #fff;
+  cursor: pointer;
 }
 
 .sidebarHr {
