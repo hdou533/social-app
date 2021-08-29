@@ -8,7 +8,7 @@ export default function Rightbar() {
                     <img src="../../assets/images/bd.png" alt="" className="birthdayImg" />
                     <span className="birthdayText"><b>May Black</b> and 1 other friend have a birthday today.</span>
                 </div>
-                <img className="rightbarAd" src="../../assets/images/happy.jpg" alt="" />
+                <img className="rightbarAd" src="../../assets/images/advertisement.jpg" alt="" />
                 <div className="suggestions">
                     <h6>Suggestions For You</h6>
                     <ul className="rightbarFriendList"> 
