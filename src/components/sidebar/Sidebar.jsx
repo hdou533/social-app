@@ -44,7 +44,7 @@ export default function Sidebar() {
                     </li>
                 </ul>
                 <button className="sidebarBtn">Show more</button>
-                <div className="sidebarHr"></div>
+                <div className="hr"></div>
                 <ul className="sidebarFriendList">                    
                     <li className="sidebarFriend">
                         <img src="assets/images/f1.jpg" alt="friend1" className="sidebarFriendIcon" />

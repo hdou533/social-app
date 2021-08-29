@@ -4,7 +4,6 @@
   margin: 20px 16px;
   margin-left: auto;
   margin-right: auto;
-  -webkit-box-shadow: 1px 4px 6px 5px rgba(141, 141, 141, 0.63);
   box-shadow: 1px 4px 6px 5px rgba(141, 141, 141, 0.63);
   border-radius: 15px;
   padding-top: 25px;
@@ -49,7 +48,7 @@
 .shareImageList {
   display: flex;
   align-items: center;
-  list-style: none;
+  justify-content: space-between;
 }
 
 .shareImageList li {
